@@ -1,0 +1,35 @@
+@import "../Variables.scss";
+
+.day {
+    border: 1px solid $dark_grey;
+    height: 34.7rem;
+    width: 20.7rem;
+    border-radius: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: -0.2rem 0 0.5rem $dark_blue, 0.2rem 0.2rem 0.5rem $dark_blue;
+    .day-header {
+        .day-header-title {
+            font-size: 2rem;
+            color: $dark_grey;
+            font-weight: bold;
+        }
+    }
+    .day-body {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        .current-property {
+            font-weight: bold;
+            font-size: 1.6rem;
+            .current-value {
+                font-weight: 600;
+                margin-left: 1rem;
+                color: $dark_grey;
+            }
+        }
+    }
+}
+

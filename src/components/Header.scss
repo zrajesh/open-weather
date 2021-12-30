@@ -1,0 +1,17 @@
+@import "../Variables.scss";
+
+.header {
+    height: 80px;
+    .header-title {
+        text-align: center;
+        padding-top: 20px;
+        color: $dark_grey;
+        font-size: 3rem;
+    }
+}
+
+.header-line {
+    border: 1px solid $dark_grey;
+}
+
+
