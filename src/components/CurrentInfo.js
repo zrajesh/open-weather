@@ -36,7 +36,7 @@ const CurrentInfo = ({current}) => {
             <div className="current-info">
                 <p className="current-property">
                 Temperature:
-                <span className="current-value">{temp}</span>
+                <span className="current-value">{temp}°C</span>
                 </p>
                 <p className="current-property">
                 Humidity: 
