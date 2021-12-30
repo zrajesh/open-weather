@@ -1,8 +1,10 @@
 
 # Weather app (using open weather api)
 
+### Please allow location to get the weather updates.
+
 ## View Live:
-https://openweatherapi.netlify.app/
+https://openapiweather.netlify.app/
 
 ## To run the app
 
