@@ -16,7 +16,7 @@ const DayCard = ({day}) => {
             <div className="day-body">
                 <p className="current-property">
                 Temperature:
-                <span className="current-value">{day.temp.day}</span>
+                <span className="current-value">{day.temp.day}°C</span>
                 </p>
                 <p className="current-property">
                 Humidity: 
