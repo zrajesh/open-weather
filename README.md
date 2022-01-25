@@ -3,17 +3,6 @@
 
 ### Please allow location to get the weather updates.
 
-## View Live:
-https://openapiweather.netlify.app/
-
-## To run the app
-
-```bash
-   pull
-   cd my-project 
-   npm install
-   npm run
-```
 
 ## Project Overview:
 ### Header
@@ -21,13 +10,5 @@ https://openapiweather.netlify.app/
 ### Week Weather update
 ![App Screenshot](https://i.ibb.co/ftdhwDP/Screenshot-100.png)
 
-## Implementation:
-All the features are implemented as per task assigned.
-
-## Testing:
-Haven't done because I have no experience in Testing
-
-## Docker:
-Haven't uploaded to Docker Hub because I have no experience with docker
 
 
